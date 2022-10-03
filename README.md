@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdiChechi
 - Meu email pessoal é edimara.chechi@escola.pr.gov.br
 - 👀 I’m interested in ...
-- Estou interessada em aprender a programar novas linguagens.
+- Estou interessada em aprender a programar novas linguagens,htmlcss
 - 🌱 I’m currently learning ...
 - Estou começando o curso.
 
